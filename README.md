@@ -1,4 +1,8 @@
 # Pygame-mini-game-project
+
+Requirements:
+Python2
+
 A simple racecar game developed in pygame.
 
 Step for running the game:
